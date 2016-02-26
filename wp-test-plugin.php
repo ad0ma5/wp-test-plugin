@@ -16,4 +16,9 @@ $plugin_path = plugin_dir_path(__FILE__);
  * 
  * some changes
  * */
+ 
+ /*
+ * 
+ * some more changes
+ * */
 ?>
