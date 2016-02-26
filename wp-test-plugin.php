@@ -9,4 +9,9 @@ License: GPL2
 
 //set the plugin path
 $plugin_path = plugin_dir_path(__FILE__);
+
+/*
+ * 
+ * some changes
+ * */
 ?>
